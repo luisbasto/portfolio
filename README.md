@@ -11,7 +11,7 @@
   <h2 align="center">Luis Basto - Personal portfolio</h2>
 
   This website is fully responsive personal portfolio, <br  > 
-  <a href="https://luisbasto.github.io/portfolio/"><strong>➥ Live Demo</strong></a>
+  <a href="https://luisbasto.github.io/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
